@@ -1,4 +1,4 @@
-# BookstoreManagementSystem
+# Bookstore Management System
 Implement a Book Store Management System using Binary Search Tree, File Organization,  Hash-Maps, and Arrays considering the admin perspective, and implement ADT of Binary Search Tree.
 
 BRIEF ABOUT THE PROJECT:
